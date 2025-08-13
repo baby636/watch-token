@@ -29,7 +29,7 @@
     "@saeris/vue-spinners": "^1.0.8",
     "babel-eslint": "^10.0.3",
     "bootstrap-vue": "^2.0.3",
-    "eslint": "^6.4.1",
+    "eslint": "^9.0.0",
     "eslint-config-standard": "^14.1.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-node": "^10.0.0",
